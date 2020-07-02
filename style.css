@@ -1,0 +1,48 @@
+.blu-top{
+    background-color: rgb(14, 45, 105);
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 0.8rem;
+}
+.socio{
+    font-size: 1rem;    
+}
+.yellow-color:hover{
+   color: rgb(255, 255, 0);
+}
+.map{
+    height: 55px;
+    background-image: url(map_of_ua_blue.png);
+    background-size: cover;
+}
+.map:hover{
+    background-image: url(map_of_ua_yellow.png);
+}
+.map-text{
+    font-size: 0.8rem;
+    margin: 0;
+    color: black;
+}
+.map-text:hover{
+    color: blue;
+}
+.mvs{
+    margin-top: 0.5rem;
+}
+.nomer{
+    font-family: 'Notable', sans-serif;
+}
+.mvd{
+    margin-top: 1.5rem;
+}
+
+.news{
+    box-shadow: 0 0 5px black;
+    padding: 0;
+    margin-bottom: 1.5rem;
+    margin-right: 1rem;
+}
+.news-text{
+    margin-left: 1rem;
+}
